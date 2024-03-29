@@ -1,0 +1,19 @@
+body {
+  background-color: #ECE2D9; /* Couleur de fond douce */
+  font-family: 'Arial', sans-serif; 
+}
+
+h1 {
+  font-family: 'Arial Black', sans-serif; 
+  color: #7E4246; /* Couleur pour le titre */
+}
+
+p {
+  line-height: 1.5;
+  color:#6C363A; /* Couleur pour le texte principal */
+}
+
+li {
+  color:#6C363A; /* Couleur pour les éléments de liste */
+  list-style: inside; 
+}
