@@ -1,23 +1,24 @@
 body {
-  background-color: #ECE2D9; /* Couleur de fond douce */
+  background-color: #ECE2D9; 
   font-family: 'Arial', sans-serif; 
 }
 
 h1 {
   font-family: 'Arial Black', sans-serif; 
-  color: #3C7A89; /* Bleu-vert */
+  color: #3C7A89; 
 }
 
 h2 {
-  color: #B993D6; /* Violet */
+  color: #B993D6;
 }
 
 p {
   line-height: 1.5;
-  color: #8A817C; /* Gris taupe */
+  color: #8A817C; 
 }
 
 li {
-  color: #F6AE99; /* Rose pâle */
+  color: #F6AE99; 
   list-style: inside; 
 }
+
