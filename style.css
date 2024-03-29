@@ -5,15 +5,19 @@ body {
 
 h1 {
   font-family: 'Arial Black', sans-serif; 
-  color: #7E4246; /* Couleur pour le titre */
+  color: #3C7A89; /* Bleu-vert */
+}
+
+h2 {
+  color: #B993D6; /* Violet */
 }
 
 p {
   line-height: 1.5;
-  color:#6C363A; /* Couleur pour le texte principal */
+  color: #8A817C; /* Gris taupe */
 }
 
 li {
-  color:#6C363A; /* Couleur pour les éléments de liste */
+  color: #F6AE99; /* Rose pâle */
   list-style: inside; 
 }
