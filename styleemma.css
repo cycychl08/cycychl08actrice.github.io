@@ -1,0 +1,22 @@
+body {
+  background-color: #F3B795; 
+  font-family: 'Arial', sans-serif; 
+}
+
+h1 {
+  font-family: 'Arial Black', sans-serif; 
+  color: #A20039;
+}
+h2 {
+  font-family: 'Arial Black', sans-serif; 
+  color: #FC974C;
+}
+p {
+  line-height: 1.5;
+  color:#714543;
+}
+
+li {
+  color:#D16863; 
+  list-style: inside; 
+}              
